@@ -6,9 +6,9 @@ builder.Services.AddDbContext<AppDbContext>();
 
 var app = builder.Build();
 
-app.MapGet("/", () => {
-    var todo = new Todo(Guid.NewGuid(), "Ir a academia", false);
-    return Results.Ok(todo);
+app.MapGet("v1/todos", (AppDbContext context) => {
+    var todos = context.Todos.ToList();
+    return Results.Ok(todos);
 });
 
 
