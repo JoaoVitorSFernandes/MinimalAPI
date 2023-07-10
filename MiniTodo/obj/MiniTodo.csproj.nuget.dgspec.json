@@ -1,25 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {}
+    "C:\\Users\\Joao\\OneDrive\\Área de Trabalho\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {
+    "C:\\Users\\Joao\\OneDrive\\Área de Trabalho\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
+        "projectUniqueName": "C:\\Users\\Joao\\OneDrive\\Área de Trabalho\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
         "projectName": "MiniTodo",
-        "projectPath": "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
-        "packagesPath": "C:\\Users\\Seidor\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\obj\\",
+        "projectPath": "C:\\Users\\Joao\\OneDrive\\Área de Trabalho\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
+        "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joao\\OneDrive\\Área de Trabalho\\MinimalAPI\\MiniTodo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Seidor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Joao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -58,6 +66,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
