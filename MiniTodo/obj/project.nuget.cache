@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rSYIlcDNIWjrpFMVXt877GrKjtbPwfOxdd0rPakVv2Xx/PgrJbKftZOVmTBzB/fU4YgoFXTc+2Hq9KLWKDLwLQ==",
+  "dgSpecHash": "YMlhK1dN3DRFO2orcey/mLUI2K4cr1G0JtIzl3azKElj2Rr4Jo1NQrf0thmycRUmg8hdTHiws3u/hOs+wk4ulg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
+  "projectFilePath": "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Seidor\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\Seidor\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Seidor\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.8\\microsoft.data.sqlite.core.7.0.8.nupkg.sha512",
     "C:\\Users\\Seidor\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",

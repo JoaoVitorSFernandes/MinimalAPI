@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {}
+    "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {
+    "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
+        "projectUniqueName": "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
         "projectName": "MiniTodo",
-        "projectPath": "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
+        "projectPath": "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
         "packagesPath": "C:\\Users\\Seidor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\obj\\",
+        "outputPath": "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Seidor\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -39,6 +39,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Flunt": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",

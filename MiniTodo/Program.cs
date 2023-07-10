@@ -1,4 +1,6 @@
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using MiniTodo.Data;
+using MiniTodo.ViewModels;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,5 +13,17 @@ app.MapGet("v1/todos", (AppDbContext context) => {
     return Results.Ok(todos);
 });
 
+app.MapPost("v1/todos", (
+    AppDbContext context,
+    CreatedTodoViewModel model) => { 
+        var todo = model.MapTo();
+        if (!model.IsValid)
+            return Results.BadRequest(model.Notifications);
+
+            context.Todos.Add(todo);
+            context.SaveChanges();
+
+            return Results.Created($"/v1/todos/{todo.Id}", todo);
+     });
 
 app.Run();
