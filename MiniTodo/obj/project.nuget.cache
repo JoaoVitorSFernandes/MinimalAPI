@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7O9Q0iGDKmWnY0Zh6hDlLIDNmnTuPiMSyVJ34MgTVjeJlyHpbWekaMPbSNzPRAO77igm2GCCGiZEuT9boTf2+w==",
+  "dgSpecHash": "rSYIlcDNIWjrpFMVXt877GrKjtbPwfOxdd0rPakVv2Xx/PgrJbKftZOVmTBzB/fU4YgoFXTc+2Hq9KLWKDLwLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Seidor\\Desktop\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
+  "projectFilePath": "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Seidor\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Seidor\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.8\\microsoft.data.sqlite.core.7.0.8.nupkg.sha512",

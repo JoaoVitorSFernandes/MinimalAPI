@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Seidor\\Desktop\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {}
+    "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Seidor\\Desktop\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {
+    "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seidor\\Desktop\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
+        "projectUniqueName": "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
         "projectName": "MiniTodo",
-        "projectPath": "C:\\Users\\Seidor\\Desktop\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
+        "projectPath": "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
         "packagesPath": "C:\\Users\\Seidor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seidor\\Desktop\\MinimalAPI\\MiniTodo\\obj\\",
+        "outputPath": "C:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Seidor\\AppData\\Roaming\\NuGet\\NuGet.Config"

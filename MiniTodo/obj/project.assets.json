@@ -1308,11 +1308,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Seidor\\Desktop\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
+      "projectUniqueName": "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
       "projectName": "MiniTodo",
-      "projectPath": "c:\\Users\\Seidor\\Desktop\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
+      "projectPath": "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
       "packagesPath": "C:\\Users\\Seidor\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Seidor\\Desktop\\MinimalAPI\\MiniTodo\\obj\\",
+      "outputPath": "c:\\Users\\Seidor\\Desktop\\Path\\MinimalAPI\\MiniTodo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Seidor\\AppData\\Roaming\\NuGet\\NuGet.Config"
