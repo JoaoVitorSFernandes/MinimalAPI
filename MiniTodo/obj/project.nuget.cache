@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GnSANelWJtRVsN2brOx1iaVUPHVfomGyncEFLObc5oJ0tyuMcKX/3Bzv8GgEOh0zHoUT9wNl1SO2mh8hyUvEoQ==",
+  "dgSpecHash": "juwWFKa9xLMLfLK80+zkNujY9IYAsZhzWtHToIoCTGRYMv0XvnzISCWB+19pNiTwsc8hDuSNToa1v3l6Q9I1Kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Joao\\OneDrive\\Área de Trabalho\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
+  "projectFilePath": "c:\\Users\\Joao\\OneDrive\\Área de Trabalho\\MinimalAPI\\MiniTodo\\MiniTodo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joao\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\Joao\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
